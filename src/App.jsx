@@ -1,7 +1,11 @@
+import Footer from "./component/Footer"
+import Header from "./component/Header"
+
 function App() {
   return (
     <>
-    <p>hey</p>
+    <Header />
+    <Footer />
     </>
   )
 }
